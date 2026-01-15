@@ -1,4 +1,4 @@
-# 🏭 Industrial Surface Defect Detection using Explainable AI
+# 🏭 Industrial Steel Surface Defect Detection using Explainable AI
 
 An **explainable deep learning–based system** for classifying surface defects in industrial steel images.  
 The project demonstrates **transfer learning, model interpretability, and deployment best practices** using a clean and reproducible pipeline.
