@@ -98,7 +98,7 @@ This system uses **confidence-based decision gating**.
 ## 🧑‍💻 Author
 
 **Ponnarasan V**  
-M.Tech – Computer Science & Engineering with specialization in Artificial Intelligence and Machine Learning 
+M.Tech – Computer Science & Engineering with specialization in Artificial Intelligence and Machine Learning,  
 VIT Vellore  
 
 ---
