@@ -75,8 +75,26 @@ This system uses **confidence-based decision gating**.
 6. Result visualization via UI  
 
 ---
-
-
+## 📁 Project Structure
+```
+DeepDefect-CV/
+├── app/
+│ ├── app.py # Streamlit UI
+│ └── defect_model.h5 # Trained model
+│
+├── src/
+│ ├── train.py # Model training
+│ └── occlusion.py # Explainability analysis
+│
+├── screenshots/
+│ └── high_confidence_prediction_with_explanation.png
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+└── .gitattributes
+```
+---
 
 ## 📌 Key Design Decisions
 
